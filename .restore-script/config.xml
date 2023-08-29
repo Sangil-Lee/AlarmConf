@@ -28,6 +28,10 @@
         <enabled>true</enabled>
         <latching>false</latching>
         <annunciating>false</annunciating>
+        <guidance>
+          <title>Proc1</title>
+          <details>close valve CV7501</details>
+        </guidance>
       </pv>
       <pv name="DEMO:PV5">
         <description>DEMO:PV5</description>
