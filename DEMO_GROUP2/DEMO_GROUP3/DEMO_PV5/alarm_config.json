@@ -1,0 +1,10 @@
+{
+  "user" : "ctrluser",
+  "host" : "localhost.localdomain",
+  "description" : "DEMO:PV5",
+  "latching" : false,
+  "guidance" : [ {
+    "title" : "proc1",
+    "details" : "open valve"
+  } ]
+}
