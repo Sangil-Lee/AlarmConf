@@ -58,6 +58,12 @@
     </pv>
   </component>
   <component name="FishTank">
+    <pv name="ctrlslab:error,ctrlslab:integral">
+      <description>ctrlslab:error,ctrlslab:integral</description>
+      <enabled>true</enabled>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+    </pv>
     <pv name="ctrlslab:heat_V">
       <description>ctrlslab:heat_v</description>
       <enabled>true</enabled>
