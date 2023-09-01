@@ -1,4 +1,5 @@
 {
   "user" : "ctrluser",
-  "host" : "localhost.localdomain"
+  "host" : "localhost.localdomain",
+  "delete" : "Deleting"
 }
