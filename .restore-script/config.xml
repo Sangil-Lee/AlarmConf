@@ -56,7 +56,7 @@
       <latching>false</latching>
       <annunciating>false</annunciating>
     </pv>
-    <component name="FishTank">
-    </component>
+  </component>
+  <component name="FishTank">
   </component>
 </config>
